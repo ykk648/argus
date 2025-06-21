@@ -21,9 +21,13 @@ from llm import (
 
 # 配置要监控的仓库
 REPOSITORIES = [
-    "vllm-project/vllm",
-    "sgl-project/sglang",
-    "ai-dynamo/dynamo",
+    "meiwulang/heygem-face2face-source",
+    "harlanhong/ACTalker",
+    "Fantasy-AMAP/fantasy-talking",
+    "Tencent-Hunyuan/HunyuanVideo-Avatar",
+    "MeiGen-AI/MultiTalk",
+    "min-star/fantasy_talking_train",
+    "xyz123xyz456/hallo4",
 ]
 
 def main():
