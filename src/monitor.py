@@ -22,6 +22,7 @@ from llm import (
 # 配置要监控的仓库
 REPOSITORIES = [
     "harlanhong/ACTalker",
+    "aaxwaz/TalkingMachines",
     "Fantasy-AMAP/fantasy-talking",
     "Tencent-Hunyuan/HunyuanVideo-Avatar",
     "MeiGen-AI/MultiTalk",
