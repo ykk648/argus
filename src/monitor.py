@@ -21,6 +21,7 @@ from llm import (
 
 # 配置要监控的仓库
 REPOSITORIES = [
+    "kijai/ComfyUI-WanVideoWrapper",
     "harlanhong/ACTalker",
     "aaxwaz/TalkingMachines",
     "Fantasy-AMAP/fantasy-talking",
