@@ -25,9 +25,9 @@ REPOSITORIES = [
     "harlanhong/ACTalker",
     "aaxwaz/TalkingMachines",
     "Fantasy-AMAP/fantasy-talking",
+    "Fantasy-AMAP/fantasy-portrait",
     "Tencent-Hunyuan/HunyuanVideo-Avatar",
     "MeiGen-AI/MultiTalk",
-    "min-star/fantasy_talking_train",
     "xyz123xyz456/hallo4",
     "SkyworkAI/SkyReels-A1",
 ]
