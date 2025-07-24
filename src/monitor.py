@@ -28,6 +28,7 @@ REPOSITORIES = [
     "Fantasy-AMAP/fantasy-portrait",
     "Tencent-Hunyuan/HunyuanVideo-Avatar",
     "MeiGen-AI/MultiTalk",
+    "MeiGen-AI/llia",
     "xyz123xyz456/hallo4",
     "SkyworkAI/SkyReels-A1",
 ]
