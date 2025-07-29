@@ -23,6 +23,7 @@ from llm import (
 REPOSITORIES = [
     "kijai/ComfyUI-WanVideoWrapper",
     "harlanhong/ACTalker",
+    "Wan-Video/Wan2.2",
     "aaxwaz/TalkingMachines",
     "Fantasy-AMAP/fantasy-talking",
     "Fantasy-AMAP/fantasy-portrait",
