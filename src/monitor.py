@@ -22,6 +22,7 @@ from llm import (
 # 配置要监控的仓库
 REPOSITORIES = [
     "kijai/ComfyUI-WanVideoWrapper",
+    "antgroup/echomimic_v3",
     "harlanhong/ACTalker",
     "Wan-Video/Wan2.2",
     "aaxwaz/TalkingMachines",
