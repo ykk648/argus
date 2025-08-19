@@ -33,6 +33,7 @@ REPOSITORIES = [
     "MeiGen-AI/llia",
     "xyz123xyz456/hallo4",
     "SkyworkAI/SkyReels-A1",
+    "Francis-Rings/StableAvatar",
 ]
 
 def main():
