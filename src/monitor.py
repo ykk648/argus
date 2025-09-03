@@ -23,16 +23,10 @@ from llm import (
 REPOSITORIES = [
     "kijai/ComfyUI-WanVideoWrapper",
     "antgroup/echomimic_v3",
-    "harlanhong/ACTalker",
     "Wan-Video/Wan2.2",
     "aaxwaz/TalkingMachines",
-    "Fantasy-AMAP/fantasy-talking",
-    "Fantasy-AMAP/fantasy-portrait",
-    "Tencent-Hunyuan/HunyuanVideo-Avatar",
-    "MeiGen-AI/MultiTalk",
     "MeiGen-AI/llia",
     "xyz123xyz456/hallo4",
-    "SkyworkAI/SkyReels-A1",
     "Francis-Rings/StableAvatar",
 ]
 
